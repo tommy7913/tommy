@@ -8,7 +8,7 @@ The 2 items above are not owned by me, They go to there respected owners
 */
 
 :root{
-    --background: url('https://images.alphacoders.com/632/632525.png');
+    --background: url('https://i.paste.pics/30fd6f4720ee014d002cda35eb1b9808.png');
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
 	--transparency-2: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
